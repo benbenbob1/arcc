@@ -1,0 +1,3 @@
+[submodule "speech_recognition"]
+	path = speech_recognition
+	url = https://github.com/Uberi/speech_recognition

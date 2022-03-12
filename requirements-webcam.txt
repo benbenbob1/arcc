@@ -1,0 +1,1 @@
+argparsenumpyopencv-python ~= 3.4pocketsphinxPyAudio >= 0.2.11
